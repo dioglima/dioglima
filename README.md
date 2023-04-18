@@ -14,11 +14,7 @@ Sou um estudante de Engenharia de Computação, programador e entusiasta de tecn
   <a href = "mailto:diogo.ll.lima08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-### Estou aprendendo
-   
-   
-           
-            <i class="devicon-react-original-wordmark"></i>
+
           
           
    
