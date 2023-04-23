@@ -5,7 +5,7 @@ Sou um estudante de Engenharia de Computação, programador e entusiasta de tecn
 
 - 🌱 Atualmente estou estudando Desenvolvimento Web!
 
-- 🔭 Faço parte da equipe de desenvolvimento do Topiker, projeto da disciplica de Engenharia de Software.
+- 🔭 Faço parte da equipe de desenvolvimento do Topiker, projeto da disciplina de Engenharia de Software.
 
   Você pode me encontrar por aqui :point_down:
   <div>
